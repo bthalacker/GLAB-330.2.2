@@ -9,4 +9,4 @@ Added those up and divided by how many data points to get the variance
 
 Took the square root of that to get the standard deviation
 
-Final result: about 2.6, meaning students usually went to the coffee shop within 2.6 visits of the average
+Final result: 2.55, so on average, each student’s number of visits was about 2.55 away from the group average of 7.
